@@ -1,7 +1,7 @@
 {
   "name": "analysis-skills",
   "description": "個人用の分析スキル群。プロダクト/データの仮説を実測された結論に落とすための調査規律を提供する。",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "author": {
     "name": "TrueRyoB"
   }
